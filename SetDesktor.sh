@@ -14,3 +14,7 @@ sudo apt-get install xorg xdm xfce4
 sudo update-alternatives --config x-session-manager
 
 
+@ 程序开机运行，在下面的文件夹内增加desktop文件。
+#/home/anzhenghe/.config/autostart
+
+
